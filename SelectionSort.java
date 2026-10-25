@@ -59,6 +59,7 @@ public class SelectionSort {
         }
 
         System.out.println("\n-------------------------------------------");
+        System.out.println("Time Complexity: O(N^2)");
         System.out.println("Execution Time (Nanoseconds): " + durationInNanoseconds + " ns");
         System.out.println("Execution Time (Milliseconds): " + durationInMilliseconds + " ms");
         System.out.println("-------------------------------------------");

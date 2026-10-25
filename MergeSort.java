@@ -87,6 +87,7 @@ public class MergeSort{
         }
 
         System.out.println("\n-------------------------------------------");
+        System.out.println("Time Complexity: O(n log n)");
         System.out.println("Execution Time (Nanoseconds): " + durationInNanoseconds + " ns");
         System.out.println("Execution Time (Milliseconds): " + durationInMilliseconds + " ms");
         System.out.println("-------------------------------------------");
